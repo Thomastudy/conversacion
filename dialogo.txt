@@ -1,1 +1,2 @@
-Tom: Hola grupo. Este es mensaje desde local.
+Tom: Hola grupo. Este es mensaje desde local. 
+Valentin: Hola Tom, soy Valentin
